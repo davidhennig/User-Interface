@@ -12,7 +12,7 @@ Given this [design file](design-files/desktop.jpg), use HTML and CSS to build th
 
 * Open the code with your preferred integrated development environment (IDE).
 
-* Start on the objectives
+* Start on the objectives.
 
 ## Objectives:
 
