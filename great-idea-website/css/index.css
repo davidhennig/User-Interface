@@ -91,19 +91,35 @@ h1{
 .features{
 	display:inline-block;
 	width:48%;
-	border:2px solid red;
+	border:2px solid white;
 }
 .About{
 	display:inline-block;
 	width:48%;
-	border:2px solid red;
+	border:2px solid white;
 }
 }
 .middle-content{
-	text-align: center;
-	padding:3%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
-
+.services{
+	display:inline-block;
+	width:30%;
+	border:2px solid white;
+	padding:10px;
+}
+.product{
+	display:inline-block;
+	width:30%;
+	border:2px solid white;
+}
+.vision{
+	display:inline-block;
+	width:30%;
+	border:2px solid white;
+}
 .contact{
 
 }
