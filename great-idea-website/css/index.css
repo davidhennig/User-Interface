@@ -64,3 +64,65 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+nav{
+	color:grey;
+	word-spacing:50px;
+	padding:10px 50px 60px 50px;
+}
+.left{
+	display:inline-block;
+	width:48%;
+	border:2px solid white;
+	text-align:center;
+}
+h1{
+	font-size:70px;
+}
+.link{
+	border:2px solid grey;
+
+}
+.image{
+	display:inline-block;
+	width:48%;
+	border:2px solid white;
+}
+}
+.features{
+	display:inline-block;
+	width:48%;
+	border:2px solid white;
+}
+.About{
+	display:inline-block;
+	width:48%;
+	border:2px solid white;
+}
+}
+.middle-content{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.services{
+	display:inline-block;
+	width:30%;
+	border:2px solid white;
+	padding:10px;
+}
+.product{
+	display:inline-block;
+	width:30%;
+	border:2px solid white;
+}
+.vision{
+	display:inline-block;
+	width:30%;
+	border:2px solid white;
+}
+.contact{
+
+}
+footer{
+	text-align: center
+}
